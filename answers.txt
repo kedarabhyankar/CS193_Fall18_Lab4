@@ -12,6 +12,8 @@ Task 2:
 
 // Under this line describe why we need to run 'git push' after making a commit
 
+git push needs to be run so that the changes are actually made to the remoterepository hosted on git. If it's not, the changes are only stored locally, and not ever moved to the remote repository.
+
 Task 3:
 
 // Under this line, write a message to yourself from the branch 'branch-A'
