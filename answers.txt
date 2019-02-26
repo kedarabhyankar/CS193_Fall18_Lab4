@@ -2,6 +2,8 @@ Task 1:
 
 // Under this line write a message to yourself from GitHub
 
+Hi, I'm Kedar and I'm a freshman at Purdue in CS193!
+
 // Under this line, describe what the command 'git fetch' does
 
 
