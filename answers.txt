@@ -6,6 +6,7 @@ Hi, I'm Kedar and I'm a freshman at Purdue in CS193!
 
 // Under this line, describe what the command 'git fetch' does
 
+git fetch updates the stream with commits not made on the terminal, but made on the github desktop, so that commits are on the same stream.
 
 Task 2:
 
